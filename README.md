@@ -1,4 +1,4 @@
-Files for the Task 8: RumourEval of SEMEval 2017 (Determining rumour veracity and support for rumours). 
+Files for the Task 8: RumourEval of ACL SEMEval 2017 (Determining rumour veracity and support for rumours). 
 
 The cue_word_list.txt contains the list of cue word features used in the model submitted by team UWaterloo. The system has been described in the paper "<a href="http://www.aclweb.org/anthology/S/S17/S17-2080.pdf">Detecting Stance towards Rumours with Topic Independent Features</a>" 
 
@@ -11,7 +11,7 @@ Further details about the competition can be found <a href="http://alt.qcri.org/
 ## Citation
 
 If you use the resources presented in this repo for your research, please cite:
-<code>
+```
 @inproceedings{bahuleyan-vechtomova2017semeval,
   author    = {Bahuleyan, Hareesh  and  Vechtomova, Olga},
   title     = {UWaterloo at SemEval-2017 Task 8: Detecting Stance towards Rumours with Topic Independent Features},
@@ -23,4 +23,4 @@ If you use the resources presented in this repo for your research, please cite:
   pages     = {461--464},
   url       = {http://www.aclweb.org/anthology/S17-2080}
 }
-</code>>
+```
